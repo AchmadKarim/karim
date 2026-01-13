@@ -7,10 +7,10 @@ Aplikasi web sederhana yang di-deploy ke layanan cloud computing untuk Lomba Kom
 
 | Item | Detail |
 |------|--------|
-| **Nama** | [NAMA LENGKAP PESERTA] |
-| **No. Peserta** | [NOMOR PESERTA] |
-| **Sekolah** | [NAMA SMK] |
-| **Kompetensi** | [KOMPETENSI KEAHLIAN] |
+| **Nama** | [Achmad Karim] |
+| **No. Peserta** | [001] |
+| **Sekolah** | [SMK Anwarul Maliki] |
+| **Kompetensi** | [Pengembangan Website] |
 
 ## Deskripsi Aplikasi
 
@@ -589,3 +589,4 @@ Gambar 3. Tampilan Mobile
 ---
 
 *Dokumentasi ini dibuat untuk persiapan LKS Cloud Computing SMK Ma'arif NU Tingkat Jawa Timur 2026*
+
